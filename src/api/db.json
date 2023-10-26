@@ -1,0 +1,70 @@
+{
+  "transactions": [
+    {
+      "id": "q0a5zq79",
+      "currency": "USD",
+      "iban": "TR27846273645276345276345273452763",
+      "date": "10/26/2023",
+      "status": "Pending",
+      "amount": 400
+    },
+    {
+      "id": "k1bp6li0",
+      "currency": "EUR",
+      "iban": "TR27846273645276345276345273452763",
+      "date": "10/26/2023",
+      "status": "Pending",
+      "amount": 700
+    },
+    {
+      "id": "f3cwwzfa",
+      "currency": "GEL",
+      "iban": "TR27846273645276345276345273452763",
+      "date": "10/26/2023",
+      "status": "Pending",
+      "amount": 100
+    },
+    {
+      "id": "6btwds2h",
+      "currency": "TRY",
+      "iban": "TR27846273645276345276345273452763",
+      "date": "10/26/2023",
+      "status": "Pending",
+      "amount": 50
+    },
+    {
+      "id": "pi8ueyvx",
+      "currency": "TRY",
+      "iban": "TR27846273645276345276345273452763",
+      "date": "10/26/2023",
+      "status": "Pending",
+      "amount": 50
+    }
+  ],
+  "balances": [
+    {
+      "id": 1,
+      "currency": "TRY",
+      "symbol": "₺",
+      "amount": 900
+    },
+    {
+      "id": 2,
+      "currency": "USD",
+      "symbol": "$",
+      "amount": 4600
+    },
+    {
+      "id": 3,
+      "currency": "EUR",
+      "symbol": "€",
+      "amount": 9300
+    },
+    {
+      "id": 4,
+      "currency": "GEL",
+      "symbol": "₾",
+      "amount": 14900
+    }
+  ]
+}
